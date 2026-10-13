@@ -1,0 +1,15 @@
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/bin/Debug/net8.0/Carros
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/bin/Debug/net8.0/Carros.deps.json
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/bin/Debug/net8.0/Carros.runtimeconfig.json
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/bin/Debug/net8.0/Carros.dll
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/bin/Debug/net8.0/Carros.pdb
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.AssemblyInfoInputs.cache
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.AssemblyInfo.cs
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.csproj.CoreCompileInputs.cache
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.sourcelink.json
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.dll
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/refint/Carros.dll
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.pdb
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/Carros.genruntimeconfig.cache
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Carros/obj/Debug/net8.0/ref/Carros.dll
